@@ -7,7 +7,9 @@ The game leverages key concepts of object-oriented programming, ensuring a robus
 
 # Features
 **Autorunning Mechanism:** The player character automatically runs forward, leaving the player to focus on dodging and avoiding obstacles.
+
 **Dynamic Obstacles:** Face a variety of enemies, including werewolves and birds, each requiring quick reflexes and strategic dodging.
+
 **Score Progression:** Keep progressing through the game to increase your score.
 
 # Running the Game
